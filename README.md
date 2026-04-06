@@ -11,6 +11,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Exchange Reviews & Comparisons](#exchange-reviews--comparisons)
 - [Bonuses & Promotions](#bonuses--promotions)
 - [On-Chain Analytics](#on-chain-analytics)
+- [Social & KOL Monitoring](#social--kol-monitoring)
 - [Portfolio Trackers](#portfolio-trackers)
 - [DeFi Dashboards](#defi-dashboards)
 - [NFT Tools](#nft-tools)
@@ -64,6 +65,10 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Parsec](https://parsec.fi) — Real-time DeFi analytics and position monitoring.
 - [DeBank](https://debank.com) — Multi-chain DeFi portfolio and whale tracking.
 
+
+## Social & KOL Monitoring
+
+- [XHuntr](https://xhuntr.com) — Real-time X (Twitter) community sniper for Solana — Telegram bot that fires instant alerts when alpha hunters create or join X communities, post contract addresses inside communities before tweeting publicly, or when multiple tracked accounts converge.
 ## Portfolio Trackers
 
 - [CoinStats](https://coinstats.app) — Portfolio tracker with exchange and wallet sync.
